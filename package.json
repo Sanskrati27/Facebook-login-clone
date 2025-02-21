@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.0.7",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^4.0.7",
+    "vite": "^6.1.0"
+  }
+}
