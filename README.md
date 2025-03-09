@@ -2,9 +2,6 @@
 
 A simple and responsive clone of the **Facebook login page** built using **Tailwind CSS**. This project replicates the official Facebook login UI with a modern and clean design.  
 
-## 🚀 Live Demo  
-🔗 [View the Project]([your-github-pages-link-here](https://sanskrati27.github.io/Facebook-login-clone/))  
-
 ## 🛠️ Tech Stack  
 - **HTML**  
 - **Tailwind CSS**  
@@ -32,7 +29,3 @@ If Tailwind CSS is not working after deployment on GitHub Pages:
 
 ## 📜 License  
 This project is for educational purposes only. Facebook and its assets are trademarks of Meta Platforms, Inc.  
-
----  
-
-Let me know if you need any modifications! 🚀
